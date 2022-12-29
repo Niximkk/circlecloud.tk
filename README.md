@@ -3,5 +3,3 @@
 ## Circle Cloud - Raidando seus sonhos!
 - Site destinado a zueira, não leve pro coração.
 - João ficou putinho com a logo então mudei pra scuare.
-
----
